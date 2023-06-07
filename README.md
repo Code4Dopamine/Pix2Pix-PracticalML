@@ -2,7 +2,7 @@
 Co-Author: Marcelo Padovani
 
 ### Goal of the project:  
-To explore and try out practical usages of Pix2Pix ML approach on dancing that could be used by dancers or choreographers to create and visualize new movements and choreographies.
+To explore and try out practical usages of Pix2Pix Machine Learning approach on dancing that could be used by dancers or choreographers to create and visualize new movements and choreographies.
 
 Here's a demo of the final result:  
 
