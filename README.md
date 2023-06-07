@@ -1,5 +1,5 @@
 # Pix2Pix-PracticalML
-Authors: Marcelo Padovani, Edward Wu
+Co-Author: Marcelo Padovani
 
 ### Goal of the project:  
 To explore and try out practical usages of Pix2Pix ML approach on dancing that could be used by dancers or choreographers to create and visualize new movements and choreographies.
